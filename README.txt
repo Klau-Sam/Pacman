@@ -1,0 +1,3 @@
+Powszechnie znana i lubiana gra Pacman 2D w mojej wersji, wykonana przy uzyciu biblioteki Pygame (wersja Pythona 3.8, nie powinny wystapic problemy rodzaju niekompatybilnosci ze starszymi wersjami). Wystarczy skompilowac plik main.py w srodowisku Pythona wraz z towarzyszacymi mu grafikami albo skorzystac z ponizszego linku do bezposredniego instalatora gry na komputerze, wtedy wystarczy ja odpalic dwoma kliknieciami, bez jakichkolwiek dodatkowych wymagan, i cieszyc sie rozgrywka. Projekt bedzie dalej przeze mnie rozwijany.
+
+https://drive.google.com/drive/folders/18tTzoS2E5Ao3-fxSXP1b5XNalWcbsACn?fbclid=IwAR1pxYc3QT7fVCKftnoAoB59h55fNCzHoiVsVMNcCFJPIS-O5TA_UzZh3Y4
